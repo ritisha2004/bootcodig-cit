@@ -7,6 +7,8 @@ public class inputEx {
         System.out.println("enter second number:");
         float m = sc.nextFloat();
 
+
+
         float add = n+m;
         System.out.println("Addtion="+add);
 
